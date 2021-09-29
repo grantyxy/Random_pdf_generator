@@ -1,6 +1,4 @@
 import setuptools
-
-i = 3
 setuptools.setup(name='random-pdf-generator',
                  version='0.2',
                  description='A PDF generator with random content',
