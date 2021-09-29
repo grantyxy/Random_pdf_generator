@@ -13,3 +13,9 @@
   - If not, then the program will use the built-in word list file to generate the file for you
 ## Notes
 - Each PDF will use Times New Roman font with a font size of 12.
+- If you want to use your own thesaurus file, please keep the thesaurus file in the following format:  
+  `word1`  
+  `word2`  
+  `...`  
+  `wordn`
+  
