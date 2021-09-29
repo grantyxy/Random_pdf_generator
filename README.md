@@ -17,5 +17,12 @@
   `word1`  
   `word2`  
   `...`  
-  `wordn`
+  `wordn`  
+  For example, like this:  
+  `I`  
+  `am`  
+  `your`  
+  `father`  
+
+  
   
