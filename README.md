@@ -1,4 +1,4 @@
-# Random-PDF-Generator
+# Random PDF Generator
 ## Features
 - A generator that can generate random content pdf in conjunction with the vocabulary
 - You can choose your own location for the generated files and choose your own lexical lists
