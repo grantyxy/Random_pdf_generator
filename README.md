@@ -24,6 +24,6 @@
   `fantasy`  
   `Van`  
   `Darkholme`
-
+- If any developer can make it into a Python package, I would be very grateful.
   
   
